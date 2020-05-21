@@ -1,0 +1,16 @@
+body{
+  background-image: url(../images/fon.jpg);
+  background-size: 450px;
+}
+#contentWrap {
+  display: none;
+}
+
+.error {
+  color: red;
+}
+
+.whisper {
+  color: gray;
+  font-style: italic;
+}
